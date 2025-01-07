@@ -18,3 +18,9 @@ script in digunakan untuk push role dc menggunakan chat. Terdapat auto delete ma
    ```bash
    python3 main.py
   
+Keterangan:
+1. Butuh autorize discord dapat kalian cari di mode developer pake chrome (laptop/pc), kimis & mises (HP)
+2. ID channel kalian copy room chat discord, lalu ambil angkanya. itu id discord/channel
+3. Set time untuk hapus pesan
+4. set time untuk mengirim pesan
+5. kalo mau edit pesan, tinggal edit di ```pesan.txt```
