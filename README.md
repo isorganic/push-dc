@@ -21,7 +21,7 @@ script in digunakan untuk push role dc menggunakan chat. Terdapat auto delete ma
    ``` ctrl A + D```
 
 ##Keterangan:
-1. Butuh autorize discord dapat kalian cari di mode developer pake chrome (laptop/pc), kimis & mises (HP)
+1. Butuh autorize discord dapat kalian cari di mode developer pake chrome (laptop/pc), kiwi & mises (HP)
 2. ID channel kalian copy room chat discord, lalu ambil angkanya. itu id discord/channel
 3. Set time untuk hapus pesan
 4. set time untuk mengirim pesan
